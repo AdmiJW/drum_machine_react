@@ -2,7 +2,7 @@
 
 A Simple Drum Machine Application made by React and Redux. Created by AdmiJW for FreeCodeCamp project
 
-Visit the application __[HERE](https://admijw.github.io/drum_machine_react)__
+Visit the application __[HERE](https://admijw.github.io/drum_machine_react/)__
 
 ## Features:
 
